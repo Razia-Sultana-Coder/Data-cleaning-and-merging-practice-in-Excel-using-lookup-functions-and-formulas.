@@ -75,5 +75,5 @@ See `/screenshots` folder for:
 **Razia Sultana**  
 Aspiring Data Analyst | Excel • Power BI • SQL • Python  
 
-📧 [razia.uestc@gmail.com]  
-🌐 [LinkedIn Profile URL]  
+📧 razia.uestc@gmail.com  
+🌐 www.linkedin.com/in/razia-sultana-bd 
