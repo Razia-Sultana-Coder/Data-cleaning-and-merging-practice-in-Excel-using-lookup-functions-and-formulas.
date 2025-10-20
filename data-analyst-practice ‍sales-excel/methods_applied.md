@@ -38,6 +38,8 @@ All cleaning steps were performed in **Excel**, focusing on consistency, accurac
 
   ```excel
   =VALUE(SUBSTITUTE(A2,"₹",""))
+OR
+use Data Tab> Convert Text to Colomn> Delimited 
   ```
 * Renamed the new column as `price_in_inr`.
 
@@ -67,7 +69,8 @@ The cleaned tables were merged using Excel lookup functions.
 | ---------------------------- | ----------------------------------- |
 | `product_sales.xlsx`         | Original dataset (raw)              |
 | `product_sales_cleaned.xlsx` | Cleaned and merged dataset          |
-| `data_cleaning_steps.md`     | Step-by-step cleaning documentation |
+| `data_cleaning_tasks.md`     | Step-by-step cleaning documentation |
+| `methods_applied.md`         | All methods applied in cleaning documentation |
 | `README.md`                  | Project overview and summary        |
 
 ---
@@ -88,18 +91,9 @@ The cleaned tables were merged using Excel lookup functions.
 
 ---
 
-## 📈 Next Steps (Optional Extensions)
-
-You can extend this project by:
-
-* Creating pivot tables and charts to visualize total sales per product or customer.
-* Exporting the cleaned dataset to **Power BI** or **Python (Pandas)** for further analysis.
-* Building an **interactive dashboard** for business insights.
-
----
-
 **Author:** *Razia Sultana*
 **Date:** *October 2025*
 **Location:** *Dhaka, Bangladesh*
 **Project Type:** *Data Cleaning & Analysis (Excel)*
+
 
